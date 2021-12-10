@@ -10,6 +10,8 @@ buildscript {
         lifecycle_version = '2.4.0'
         fragmentktx_verison = '1.4.0'
         preference_verison = '1.1.1'
+        retrofit_version= '2.9.0'
+        paging_version= '3.1.0'
     }
     repositories {
         google()
